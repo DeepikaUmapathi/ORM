@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../pra"
+		},
+		{
+			"path": "../../../../exp3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pra"
+	}
+}
